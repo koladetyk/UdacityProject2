@@ -155,4 +155,4 @@ This project implements a decentralized star notary service using Ethereum and E
 
 ## Deployment
 
-- Token Address on the Sepholia Network: [0x81A89b448912f732c80a088273b4314f3187ffb5]
+- Token Address on the Sepholia Network: [0xA2d75ED98eEc7113c1c0ecED46EaFBC696934024]

@@ -23,9 +23,11 @@
  */
 
 const HDWalletProvider = require('truffle-hdwallet-provider');
-const infuraKey = "3c12e5b040494b5a41326a3372fc2212";
+//const infuraKey = "3c12e5b040494b5a41326a3372fc2212";
+const infuraKey = "a36e7382945d4a8699981211857d8abf";
 // const fs = require('fs');
-const mnemonic = "drink score run club rare dare bread neck crank chicken year mother";
+const mnemonic = "square book banner rigid during mix muscle olympic dilemma staff label brick";
+//const mnemonic = "drink score run club rare dare bread neck crank chicken year mother";
 
 module.exports = {
   /**
